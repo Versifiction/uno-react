@@ -1,0 +1,27 @@
+Combien de cartes dans le Uno ? Pour jouer au Uno, il vous faut les 108 cartes réparties de cette manière :
+
+19 cartes de couleur bleue, numérotées de 0 à 9 (2 pour chaque chiffre sauf pour le 0)
+19 cartes de couleur rouge, numérotées de 0 à 9 (2 pour chaque chiffre sauf pour le 0)
+19 cartes de couleur jaune, numérotées de 0 à 9 (2 pour chaque chiffre sauf pour le 0)
+19 cartes de couleur verte, numérotées de 0 à 9 (2 pour chaque chiffre sauf pour le 0)
+
+et des cartes spéciales :
+
+8 cartes « +2 », (2 pour chaque couleur)
+8 cartes « Inversement de sens », (2 pour chaque couleur)
+8 cartes « Passe ton tour », (2 pour chaque couleur)
+4 cartes « Joker »
+4 cartes « +4 »
+
+Tout d’abord, un des joueurs distribue à chacun 7 cartes. Le reste des cartes fait office de pioche. Pour commencer, le joueur ayant distribué retourne la première carte de la pioche et le joueur situé à gauche commence la partie. Il doit recouvrir la carte de la pioche par une carte d’une même couleur, du même chiffre ou du même symbole. Si le joueur ne peut pas jouer, il a la possibilité de poser une carte « joker » ou « +4 ». Dans le cas où le joueur ne possèderait aucune de ces cartes, il doit en piocher une. Si cette carte peut être jouée, il peut directement la poser, sinon il devra la conserver dans son jeu.
+
+Lorsque qu’un joueur n’a plus qu’une carte en sa possession, il doit crier « Uno » pour avertir tous les autres joueurs. S’il oublie de le faire et qu’un joueur s’en aperçoit en criant « contre Uno ! », il devra piocher 2 cartes en pénalité.
+
+Le premier des joueurs à s’être débarrassé de toutes ses cartes gagne. Il faut alors compter les points :
+
+ Les cartes numérotées se comptent suivant leur valeur.
+ La carte « +2 » vaut 20 points.
+ La carte « Inversement de sens » vaut 20 points.
+ La carte « Passe ton tour » vaut 20 points.
+La carte « Joker » vaut 50 points.
+ La carte « +4 » vaut 50 points.
